@@ -1,6 +1,3 @@
-### Hi there 👋
-
-<!--
 # 💫 About Me:
 Currenlty working on 3D Dynamic website
 
@@ -15,6 +12,4 @@ Currenlty working on 3D Dynamic website
 ---
 [![](https://visitcount.itsvg.in/api?id=VIKash&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->..
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
